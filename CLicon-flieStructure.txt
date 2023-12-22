@@ -1,0 +1,18 @@
+File Structure
+
+assets
+	image
+	icon
+	svg
+components
+	common
+pages
+	pagesFoldersName
+hooks
+layout
+	page-container
+redux 
+ 	app 
+	features
+services
+utils

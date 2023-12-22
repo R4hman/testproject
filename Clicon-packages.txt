@@ -1,0 +1,13 @@
+1.HTML
+2.Tailwind CSS / shadcn ui
+3.TypeScript
+3.React{
+ Vite
+ Toolkit
+ React-router-dom
+ React Query
+ React-Hook-Form
+ Zod
+}
+4.i18-next
+5.Drobzone
